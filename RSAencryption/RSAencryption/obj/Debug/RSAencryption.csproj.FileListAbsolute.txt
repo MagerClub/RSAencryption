@@ -1,0 +1,10 @@
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\bin\Debug\RSAencryption.exe.config
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\bin\Debug\RSAencryption.exe
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\bin\Debug\RSAencryption.pdb
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\obj\Debug\RSAencryption.csprojAssemblyReference.cache
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\obj\Debug\RSAencryption.Form1.resources
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\obj\Debug\RSAencryption.Properties.Resources.resources
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\obj\Debug\RSAencryption.csproj.GenerateResource.cache
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\obj\Debug\RSAencryption.csproj.CoreCompileInputs.cache
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\obj\Debug\RSAencryption.exe
+C:\Users\MikhaGirsang\source\repos\RSAencryption\RSAencryption\obj\Debug\RSAencryption.pdb
